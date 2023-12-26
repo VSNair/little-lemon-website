@@ -168,7 +168,6 @@ label {
 }
 
 
-/* menu items */
 
 .menu-container {
   margin: 110px auto;
@@ -196,7 +195,6 @@ label {
 }
 
 .menu-items {
-  /* height: 400px; */
   width: 350px;
   background: #1d3c32;
   border-radius: 8px;
