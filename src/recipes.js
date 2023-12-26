@@ -1,27 +1,27 @@
 const recipes = [
   { 
     id: 1,
-    title: "Greek salad",
-    price: 12.99,
-    image: "https://i.ibb.co/68c9bLv/greek-salad.jpg",
+    title: "Ratatouille",
+    price: 14.99,
+    image: "https://www.allrecipes.com/thmb/F1rucOY3FQT5Ic0oyxdLoqU_yKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222006-disneys-ratatouille-DDMFS-4x3-36eb15843ab548a79e7aab761dac92e1.jpg",
     description:
-      "The famous greek salad of crispy lettuce, peppers, olives and our Chicago style fota cheese, garnished with crunchy garlic and rosemary croutons",
+      "A French Provençal stewed vegetable dish, made with eggplant, bell peppers, zucchini, onions, tomatoes, and flavored with herbs.",
   },
   {
     id: 2,
-    title: "Bruchetta",
-    price: 5.99,
-    image: "https://i.ibb.co/317GqZv/Bruchetta.png",
+    title: "Caponata",
+    price: 9.99,
+    image: "https://theplantbasedschool.com/wp-content/uploads/2023/07/Eggplant-Caponata-with-basil-3.jpg",
     description:
-      "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
+      "A Sicilian eggplant dish consisting of chopped and sautéed eggplant, olives, and capers in a sweet and sour sauce.",
   },
   {
     id: 3,
-    title: "Lemon Dessert",
-    price: 4.78,
-    image: "https://i.ibb.co/sm6MfcH/desert.jpg",
+    title: "Spanakopita",
+    price: 12.49,
+    image: "https://howtofeedaloon.com/wp-content/uploads/2023/01/spanakopita-IG.jpg",
     description:
-      "This comes straight from grandma's recipe book, every last ingredient has been sourced and is as authentic as can be imagined.",
+      "A Greek pastry filled with spinach, feta cheese, onions, and seasoned with herbs, encased in layers of phyllo dough.",
   },
 
 ];

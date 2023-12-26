@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import bannerImg from "../images/restauranfood.jpg";
+import bannerImg from "../images/restaurantfood.png";
 
 const Header = () => {
   return (
@@ -8,13 +8,11 @@ const Header = () => {
       <section>
         <div className="banner">
           <h2>Little Lemon</h2>
-          <h3>Chicago</h3>
           <p>
-            We are a family owned Mediterraneran restaurant, focused on
-            traditional recipes servred with a modern twist.
+          Welcome to a culinary journey that transports you to the sun-kissed shores of the Mediterranean. Our restaurant invites you to savor the vibrant flavors and rich traditions of this iconic region, where each dish is a celebration of fresh, locally sourced ingredients and time-honored recipes.
           </p>
           <Link to="/booking">
-            <button aria-label="On Click">Reserve Table</button>
+            <button aria-label="On Click">Reserve a Table</button>
           </Link>
         </div>
         <div className="banner-img">

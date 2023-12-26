@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import logo from "../images/Logo .svg";
 
 const Nav = () => {
-  const [menuOpen, setMenuOpen] = useState(false);
+  var [menuOpen, setMenuOpen] = useState(false);
 
   const toggleMenu = () => {
     setMenuOpen(!menuOpen);
@@ -24,9 +24,6 @@ const Nav = () => {
         </li>
         <li>
           <a href="/">About</a>
-        </li>
-        <li>
-          <a href="/">Services</a>
         </li>
         <li>
           <a href="/">Menu</a>
